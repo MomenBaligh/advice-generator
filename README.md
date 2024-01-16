@@ -29,8 +29,8 @@ Users should be able to:
 ![](/Screenshots/Screenshot%202024-01-16%20213127.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MomenBaligh/advice-generator](https://github.com/MomenBaligh/advice-generator)
+- Live Site URL: [https://advice-generator-mb3.vercel.app/](https://advice-generator-mb3.vercel.app/)
 
 ## My process
 
